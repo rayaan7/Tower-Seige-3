@@ -49,7 +49,7 @@ function setup() {
   b15 = new Box(570, 175, 30, 40);
   b16 = new Box(630, 175, 30, 40);
   b17 = new Box(600, 135, 30, 40);
-
+/*
   b18 = new Box(1000,120,30,40);
   b19 = new Box(1000,120,30,40);
   b20 = new Box(1000,120,30,40);
@@ -57,6 +57,7 @@ function setup() {
   b22 = new Box(1000,120,30,40);
   b23 = new Box(990,120,30,40);
   b24 = new Box(1000,120,30,40);
+  */
   
   blocks1 = new Box(840, 175, 30, 40);
   blocks2 = new Box(870, 175, 30, 40);
