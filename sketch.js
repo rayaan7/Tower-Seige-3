@@ -79,7 +79,7 @@ function setup() {
 
   polygon = new Polygon(200, 270, 23, 23);
 
-  slingshot = new SlingShot(polygon.body, {x:200, y:260});
+  slingshot = new Slingshot(polygon.body, {x:200, y:260});
 
 
   
